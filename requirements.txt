@@ -1,0 +1,12 @@
+loguru
+fastapi
+uvicorn
+langchain
+setuptools
+scikit-learn
+python-dotenv
+langchain-core
+langchain-openai
+langchain-pinecone
+langchain-community
+mysql-connector-python
